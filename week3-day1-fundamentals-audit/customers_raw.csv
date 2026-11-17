@@ -1,0 +1,33 @@
+customer_id,full_name,email_address,city_region,customer_age,contact_phone
+1001,Enterprise_User_1,client_1@enterprise.in,Chennai,27,9876543210
+1002,Enterprise_User_2,client_2@enterprise.in,chennai,33,9876543210
+1003,Enterprise_User_3,client_3@enterprise.in,CHENNAI ,-4,9876543210
+1004,Enterprise_User_4,client_4@enterprise.in,Madurai,48,9876543210
+1005,Enterprise_User_5,,madurai ,31,9876543210
+1006,Enterprise_User_6,client_6@enterprise.in,Coimbatore,245,4321
+1007,Enterprise_User_7,client_7@enterprise.in, Coimbatore,29,9876543210
+1008,Enterprise_User_8,client_8@enterprise.in,Chennai,42,9876543210
+1009,Enterprise_User_9,client_9@enterprise.in,chennai,27,9876543210
+1010,Enterprise_User_10,,CHENNAI ,33,9876543210
+1011,Enterprise_User_11,client_11@enterprise.in,Madurai,-4,9876543210
+1012,Enterprise_User_12,client_12@enterprise.in,madurai ,48,4321
+1013,Enterprise_User_13,client_13@enterprise.in,Coimbatore,31,9876543210
+1014,Enterprise_User_14,client_14@enterprise.in, Coimbatore,245,9876543210
+1015,Enterprise_User_15,,Chennai,29,9876543210
+1016,Enterprise_User_16,client_16@enterprise.in,chennai,42,9876543210
+1017,Enterprise_User_17,client_17@enterprise.in,CHENNAI ,27,9876543210
+1018,Enterprise_User_18,client_18@enterprise.in,Madurai,33,4321
+1019,Enterprise_User_19,client_19@enterprise.in,madurai ,-4,9876543210
+1020,Enterprise_User_20,,Coimbatore,48,9876543210
+1021,Enterprise_User_21,client_21@enterprise.in, Coimbatore,31,9876543210
+1022,Enterprise_User_22,client_22@enterprise.in,Chennai,245,9876543210
+1023,Enterprise_User_23,client_23@enterprise.in,chennai,29,9876543210
+1024,Enterprise_User_24,client_24@enterprise.in,CHENNAI ,42,4321
+1025,Enterprise_User_25,,Madurai,27,9876543210
+1026,Enterprise_User_26,client_26@enterprise.in,madurai ,33,9876543210
+1027,Enterprise_User_27,client_27@enterprise.in,Coimbatore,-4,9876543210
+1028,Enterprise_User_28,client_28@enterprise.in, Coimbatore,48,9876543210
+1029,Enterprise_User_29,client_29@enterprise.in,Chennai,31,9876543210
+1003,Enterprise_User_3,client_3@enterprise.in,CHENNAI ,-4,9876543210
+1008,Enterprise_User_8,client_8@enterprise.in,Chennai,42,9876543210
+1015,Enterprise_User_15,,Chennai,29,9876543210
